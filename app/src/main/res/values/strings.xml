@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade07</string>
+    <string name="dimensao">Informe a Dimensão</string>
+    <string name="largura">Largura</string>
+    <string name="altura">Altura</string>
+    <string name="botao">Salvar</string>
+</resources>
